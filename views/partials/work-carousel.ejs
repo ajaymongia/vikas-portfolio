@@ -1,0 +1,12 @@
+<div class="carousel work-carousel" data-carousel data-autoscroll="24">
+  <div class="carousel-viewport" tabindex="0" role="group" aria-label="Case studies, scrollable">
+    <ul class="carousel-track">
+      <% projects.forEach(function (project, index) { %>
+        <li class="carousel-item work-slide">
+          <%- include('project-card', { project: project, index: index }) %>
+        </li>
+      <% }); %>
+    </ul>
+  </div>
+  <%- include('carousel-controls') %>
+</div>

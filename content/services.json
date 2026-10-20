@@ -1,0 +1,79 @@
+[
+  {
+    "id": "product-design",
+    "title": "UI/UX & Product Design",
+    "blurb": "Web, mobile and enterprise interfaces taken from the first wireframe to high-fidelity, clickable prototypes.",
+    "items": [
+      "Wireframing",
+      "High-fidelity prototyping",
+      "Interaction design",
+      "Mobile apps",
+      "Web apps",
+      "Figma & Adobe XD"
+    ]
+  },
+  {
+    "id": "research",
+    "title": "User Research & Usability",
+    "blurb": "Understanding who uses the product and where they get stuck, before deciding what the screens should be.",
+    "items": [
+      "User research",
+      "Customer journey mapping",
+      "Information architecture",
+      "Usability testing",
+      "Requirements gathering"
+    ]
+  },
+  {
+    "id": "design-systems",
+    "title": "Design Systems",
+    "blurb": "Scalable component libraries and style rules that keep a brand consistent across every screen and every developer.",
+    "items": [
+      "Component libraries",
+      "Style guides",
+      "Brand consistency",
+      "Responsive patterns",
+      "Developer handoff"
+    ]
+  },
+  {
+    "id": "front-end",
+    "title": "Front-End Development",
+    "blurb": "Fast, responsive front-ends built from the designs — so nothing gets lost between the mockup and the browser.",
+    "items": [
+      "HTML5",
+      "CSS3 / SASS",
+      "JavaScript (ES6+)",
+      "React basics",
+      "Tailwind CSS",
+      "Bootstrap",
+      "jQuery",
+      "Cross-browser testing"
+    ]
+  },
+  {
+    "id": "workflow",
+    "title": "Workflow & Delivery",
+    "blurb": "Shipping inside real engineering teams — version control, CI/CD and Agile ceremonies included.",
+    "items": [
+      "Git & GitHub",
+      "CI/CD environments",
+      "Agile / Scrum",
+      "Zeplin",
+      "Sketch",
+      "InVision"
+    ]
+  },
+  {
+    "id": "leadership",
+    "title": "Leadership & Strategy",
+    "blurb": "Leading and mentoring a multidisciplinary team of designers and developers, and owning the client relationship.",
+    "items": [
+      "Design direction",
+      "Team leadership",
+      "Mentoring",
+      "Client management",
+      "Project lifecycles"
+    ]
+  }
+]

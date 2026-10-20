@@ -1,0 +1,51 @@
+{
+  "stats": {
+    "visible": true
+  },
+  "brands": {
+    "visible": true
+  },
+  "about": {
+    "visible": true
+  },
+  "work": {
+    "visible": true,
+    "heading": "Case studies",
+    "note": "Recent UI/UX work, straight from my Behance — mobile apps, e-commerce, websites and product concepts. Drag, scroll or use the arrows; every card opens the full case study."
+  },
+  "alsoFor": {
+    "visible": false
+  },
+  "visuals": {
+    "visible": true,
+    "heading": "From the archive",
+    "note": "Earlier websites, brand identities and web apps, 2017–2021 — where the design-and-build habit started."
+  },
+  "services": {
+    "visible": true,
+    "heading": "What I bring\nto a team",
+    "note": "Design and front-end under one roof, so what gets designed is what gets shipped."
+  },
+  "experience": {
+    "visible": true,
+    "heading": "Work history",
+    "note": ""
+  },
+  "recognition": {
+    "visible": true,
+    "heading": "Education",
+    "note": ""
+  },
+  "recommendations": {
+    "visible": false,
+    "heading": "What people I have worked with say",
+    "note": ""
+  },
+  "contact": {
+    "visible": true,
+    "heading": "Have a product\nthat needs designing\nand building?",
+    "note": "I am open to full-time roles and interesting projects — web, mobile or enterprise. Send a note and I will get back to you."
+  },
+  "marqueeLabel": "Clients and products I have designed for",
+  "alsoForLabel": "Also delivered for"
+}

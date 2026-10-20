@@ -1,0 +1,26 @@
+[
+  {
+    "id": "tool-1",
+    "name": "Figma",
+    "note": "where every screen starts",
+    "logo": null
+  },
+  {
+    "id": "tool-2",
+    "name": "Adobe XD & Photoshop",
+    "note": "prototypes and pixel polish",
+    "logo": null
+  },
+  {
+    "id": "tool-3",
+    "name": "HTML, CSS & JavaScript",
+    "note": "where the design becomes real",
+    "logo": null
+  },
+  {
+    "id": "tool-4",
+    "name": "Git & GitHub",
+    "note": "so the build has a history",
+    "logo": null
+  }
+]

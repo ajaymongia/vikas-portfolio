@@ -1,0 +1,50 @@
+{
+  "heading": "A little background about me",
+  "sub": "A designer who also writes the code.",
+  "intro": {
+    "greeting": "Hi 👋, I'm VIKAS,",
+    "role": "a UI/UX designer",
+    "line": "who builds the front-end too."
+  },
+  "located": "Based in Ghaziabad, India 🇮🇳 — leading design and front-end at Intigate Technologies.",
+  "notes": [
+    {
+      "text": "research → wireframes → prototype → code",
+      "tone": "flow"
+    },
+    {
+      "text": "Started building websites in 2011. Fourteen years on, still shipping them.",
+      "tone": "plain"
+    },
+    {
+      "text": "Designing in Figma and building in HTML, CSS and JavaScript means nothing gets lost in handoff.",
+      "tone": "plain"
+    }
+  ],
+  "funFact": {
+    "title": "Fun Fact",
+    "items": [
+      "Started out as a web designer in 2011",
+      "Learned to code the layouts I drew",
+      "Now leads a team that does both"
+    ],
+    "kicker": "The handoff is shorter when it is to yourself.",
+    "flow": "Design → Build → Ship ✦"
+  },
+  "overlap": {
+    "caption": "the overlap is where\nthings get interesting ✦",
+    "words": [
+      "Design",
+      "Code",
+      "Systems"
+    ]
+  },
+  "photoCaption": "hi, that's me!",
+  "tools": {
+    "intro": "Apart from that, I spend my day\njuggling between these"
+  },
+  "badge": {
+    "label": "Lead UI/UX & Front-End",
+    "org": "Intigate Technologies · since 2013"
+  }
+}

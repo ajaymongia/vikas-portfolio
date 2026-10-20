@@ -1,0 +1,129 @@
+{
+  "name": "Vikas Kumar",
+  "shortName": "Vikas K.",
+  "role": "Senior UI/UX Designer & Front-End Developer",
+  "tagline": "Senior UI/UX designer and front-end developer with 14+ years of taking web, mobile and enterprise products from research to shipped code.",
+  "hero": {
+    "eyebrow": "Senior UI/UX Designer · Front-End Developer",
+    "lead": "I design digital products, then",
+    "highlight": "build them",
+    "tail": "in code.",
+    "sub": "14+ years crafting human-centred experiences for web, mobile and enterprise — from user research and wireframes to production front-end — for clients like Kuwait Petroleum Corporation, KPMG, Protiviti and Boubyan Bank."
+  },
+  "location": "Ghaziabad, India",
+  "email": "vikas.vikaskumar.kumar19@gmail.com",
+  "phone": "+91 9634528413",
+  "phoneHref": "+919634528413",
+  "yearsExperience": "14+",
+  "portrait": "/img/portrait.png",
+  "portraitVideo": "/img/portrait.mp4",
+  "socials": [
+    {
+      "label": "LinkedIn",
+      "href": "https://linkedin.com/in/imvikaskt"
+    },
+    {
+      "label": "Behance",
+      "href": "https://www.behance.net/imvikaskt"
+    },
+    {
+      "label": "Email",
+      "href": "mailto:vikas.vikaskumar.kumar19@gmail.com"
+    }
+  ],
+  "nav": [
+    {
+      "id": "nav-1",
+      "label": "Work",
+      "href": "#work"
+    },
+    {
+      "id": "nav-2",
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "id": "nav-3",
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "id": "nav-4",
+      "label": "Contact",
+      "href": "#contact"
+    },
+    {
+      "id": "nav-5",
+      "label": "Resume",
+      "href": "/resume.pdf"
+    }
+  ],
+  "stats": [
+    {
+      "value": "14+",
+      "label": "Years in UI/UX & front-end"
+    },
+    {
+      "value": "13+",
+      "label": "Years leading at Intigate"
+    },
+    {
+      "value": "40+",
+      "label": "Projects published on Behance"
+    },
+    {
+      "value": "2011",
+      "label": "Designing and building for the web since"
+    }
+  ],
+  "clients": [
+    {
+      "id": "client-1",
+      "name": "Kuwait Petroleum Corporation",
+      "logo": null,
+      "projectId": null
+    },
+    {
+      "id": "client-2",
+      "name": "KPMG",
+      "logo": null,
+      "projectId": null
+    },
+    {
+      "id": "client-3",
+      "name": "Protiviti",
+      "logo": null,
+      "projectId": null
+    },
+    {
+      "id": "client-4",
+      "name": "Boubyan Bank",
+      "logo": null,
+      "projectId": null
+    },
+    {
+      "id": "client-5",
+      "name": "Oneto11",
+      "logo": null,
+      "projectId": null
+    },
+    {
+      "id": "client-6",
+      "name": "Nebula",
+      "logo": null,
+      "projectId": "nebula-music-app"
+    },
+    {
+      "id": "client-7",
+      "name": "Ruum8",
+      "logo": null,
+      "projectId": "ruum8"
+    },
+    {
+      "id": "client-8",
+      "name": "Witly",
+      "logo": null,
+      "projectId": "witly"
+    }
+  ]
+}

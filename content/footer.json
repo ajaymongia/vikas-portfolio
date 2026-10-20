@@ -1,0 +1,35 @@
+{
+  "hand": "Designed in Figma, finished in the browser.",
+  "links": [
+    {
+      "id": "link-1",
+      "label": "Work",
+      "href": "#work"
+    },
+    {
+      "id": "link-2",
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "id": "link-3",
+      "label": "Resume",
+      "href": "/resume.pdf"
+    },
+    {
+      "id": "link-4",
+      "label": "LinkedIn",
+      "href": "https://linkedin.com/in/imvikaskt"
+    },
+    {
+      "id": "link-5",
+      "label": "Behance",
+      "href": "https://www.behance.net/imvikaskt"
+    },
+    {
+      "id": "link-6",
+      "label": "Email",
+      "href": "mailto:vikas.vikaskumar.kumar19@gmail.com"
+    }
+  ]
+}

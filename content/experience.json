@@ -1,0 +1,49 @@
+{
+  "roles": [
+    {
+      "title": "Lead UI/UX Designer & Front-End Developer",
+      "company": "Intigate Technologies",
+      "location": "Noida",
+      "period": "Jan 2013 — Present",
+      "current": true,
+      "points": [
+        "Head end-to-end UX/UI design strategy and front-end development across web and mobile platforms for international clients.",
+        "Lead and mentor a multidisciplinary team of designers and developers, defining scalable design systems and keeping brands consistent.",
+        "Run user research, customer journey mapping and wireframing in Figma and Adobe XD to make products easier to use.",
+        "Build high-performance, responsive front-ends with HTML5, CSS3, JavaScript and Bootstrap.",
+        "Work alongside product managers and stakeholders in CI/CD and Agile environments."
+      ]
+    },
+    {
+      "title": "Front-End Developer & UI Designer",
+      "company": "Hivish Technology",
+      "location": "Delhi",
+      "period": "Jan 2012 — Dec 2012",
+      "points": [
+        "Designed and built custom responsive website layouts and interactive web components with HTML, CSS, JavaScript and Bootstrap.",
+        "Created brand collateral, digital displays and marketing materials for corporate clients."
+      ]
+    },
+    {
+      "title": "Web Designer & Developer",
+      "company": "VT Info Net",
+      "location": "Delhi",
+      "period": "Mar 2011 — Dec 2011",
+      "points": [
+        "Conceptualised and built custom web UI, wireframes and branding from client requirements."
+      ]
+    }
+  ],
+  "recognition": [
+    {
+      "title": "Diploma in Professional Web Designing & UI/UX Development",
+      "org": "Flash'n Media, Delhi",
+      "detail": "2010"
+    },
+    {
+      "title": "Intermediate (10+2) & High School",
+      "org": "Uttar Pradesh Board",
+      "detail": "2007 — 2009"
+    }
+  ]
+}
